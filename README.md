@@ -76,10 +76,10 @@ Como resultado, se obtuvo que las variables que mejor permiten discriminar entre
 
 ## <span class="c36">Introducción</span>
 
-## <span class="c5">Un derrame cerebrovascular puede ser causado cuando se rompe un vaso sanguíneo en o cerca del cerebro o cuando se interrumpe la irrigación de sangre y oxígeno al cerebro. Aunque se ha avanzado mucho en la detección y tratamiento de la enfermedad cerebrovascular, ésta sigue siendo una de las principales causas de muerte y discapacidad en muchos países del mundo (BBC News).  
+Un derrame cerebrovascular puede ser causado cuando se rompe un vaso sanguíneo en o cerca del cerebro o cuando se interrumpe la irrigación de sangre y oxígeno al cerebro. Aunque se ha avanzado mucho en la detección y tratamiento de la enfermedad cerebrovascular, ésta sigue siendo una de las principales causas de muerte y discapacidad en muchos países del mundo (BBC News).  
 Es por ello que resulta de gran interés encontrar métodos simples e interpretables para predecir el riesgo de padecer uno. </span>
 
-## <span class="c5">El objetivo de este trabajo fue generar el mejor árbol de clasificación posible para identificar pacientes con riesgo de sufrir derrames cerebrales a partir de información sobre su estado de salud y estilo de vida.</span><span> </span><span class="c3">Para ello se comenzó por realizar un análisis y limpieza de los datos disponibles, buscando las posibles variables de mayor interés. Las mismas se encuentran descritas en las secciones “Datos” y “Metodologías”, discutiendo los resultados obtenidos en “Resultados” y finalizando el trabajo con algunas valoraciones en la sección “Conclusiones”.</span>
+El objetivo de este trabajo fue generar el mejor árbol de clasificación posible para identificar pacientes con riesgo de sufrir derrames cerebrales a partir de información sobre su estado de salud y estilo de vida.</span><span> </span><span class="c3">Para ello se comenzó por realizar un análisis y limpieza de los datos disponibles, buscando las posibles variables de mayor interés. Las mismas se encuentran descritas en las secciones “Datos” y “Metodologías”, discutiendo los resultados obtenidos en “Resultados” y finalizando el trabajo con algunas valoraciones en la sección “Conclusiones”.</span>
 
 <span class="c3"></span>
 
