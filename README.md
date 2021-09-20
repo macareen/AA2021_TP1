@@ -63,15 +63,14 @@ Sotelo</span>
 
 ### <span class="c27 c36">Resumen</span>
 
-## <span class="c3">Poder clasificar el riesgo de sufrir un derrame cerebral de una persona a partir de información disponible y fácil de recolectar resulta de gran interés para la calidad de vida humana. </span>
+Poder clasificar el riesgo de sufrir un derrame cerebral de una persona a partir de información disponible y fácil de recolectar resulta de gran interés para la calidad de vida humana. 
+En este trabajo, se analizan los datos de 5.110</span><span class="c3"> personas con resultados conocidos acerca de su padecimiento de un derrame cerebral o no, así como información sobre su edad, género, índice de masa corporal, estado civil, tipo de residencia y trabajo, y si tienen o no hipertensión, entre otras.
 
-## <span class="c5">En este trabajo, se analizan los datos de 5.110</span><span class="c3"> personas con resultados conocidos acerca de su padecimiento de un derrame cerebral o no, así como información sobre su edad, género, índice de masa corporal, estado civil, tipo de residencia y trabajo, y si tienen o no hipertensión, entre otras.</span>
+A partir de aquello, se buscaron factores que podrían resultar de mayor interés a la hora de predecir un derrame cerebral. Para ello,se realizó un análisis exploratorio de los datos y se entrenaron varios árboles de clasificación con diferentes hiperparámetros y predictores, evaluando las diferencias en sus resultados.</span>
 
-## <span class="c5">A partir de aquello, se buscaron factores que podrían resultar de mayor interés a la hora de predecir un derrame cerebral. Para ello, s</span><span class="c5">e realizó un análisis exploratorio de los datos y se entrenaron varios árboles de clasificación con diferentes hiperparámetros y predictores, evaluando las diferencias en sus resultados.</span>
+En función de las diferentes particiones hechas sobre la muestra, así como de los diferentes hiperparámetros utilizados, hemos notado cambios importantes en la performance de los modelos. Más allá de su variabilidad, valoramos haber logrado buenos resultados en métricas que eran de nuestro interés particular, principalmente </span><span class="c5 c6 c12">recall </span><span class="c5">y el </span><span class="c5 c6 c12">F2 score</span><span class="c5">.</span>
 
-## <span class="c5">En función de las diferentes particiones hechas sobre la muestra, así como de los diferentes hiperparámetros utilizados, hemos notado cambios importantes en la performance de los modelos. Más allá de su variabilidad, valoramos haber logrado buenos resultados en métricas que eran de nuestro interés particular, principalmente </span><span class="c5 c6 c12">recall </span><span class="c5">y el </span><span class="c5 c6 c12">F2 score</span><span class="c5">.</span>
-
-## <span class="c5">Como resultado, se obtuvo que las variables que mejor permiten discriminar entre quienes sufrieron derrames y quienes no fueron la edad, el índice de masa corporal y el nivel de glucosa en sangre. </span>
+Como resultado, se obtuvo que las variables que mejor permiten discriminar entre quienes sufrieron derrames y quienes no fueron la edad, el índice de masa corporal y el nivel de glucosa en sangre. 
 
 <span class="c3"></span>
 
